@@ -19,6 +19,7 @@ Gosto de transformar dados em **insights**, **dashboards** e **automação** par
 - Power BI | DAX
 - Excel | Power Query
 - Git | GitHub
+- SQL
 
 ---
 
